@@ -199,3 +199,9 @@ Add the subdomain hubot should connect to. If you web URL looks like
 
 You may want to get comfortable with `heroku logs` and `heroku restart` if
 you're having issues.
+
+## run the project with gitter
+
+get the token from gitter and run the following command. If there is any issue just clean node_modules and rerun npm install. This project is javascript compatible. In gitter we need to create room from the bot account used and add the people in the room.
+
+HUBOT_GITTER2_TOKEN=595dd63163a2fba907916a31e87618cd5a356dfd ./bin/hubot -a gitter2
