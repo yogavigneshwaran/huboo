@@ -1,1 +1,3 @@
-python3 /home/yoga/huboo/shellscripts/readfile.py
+python3 readfile.py
+
+echo "Python command has been executed succcessfully"
